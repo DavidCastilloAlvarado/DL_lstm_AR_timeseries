@@ -1,0 +1,13 @@
+logs
+model
+.ipynb_checkpoints
+__pycache__
+*.csv
+clase_forecasting_test.ipynb
+customlayers.py
+demand_forecasting_time_series_autos.ipynb
+demand_forecasting_time_series_gruas.ipynb
+forecasting_sales_Udemy.ipynb
+
+
+
