@@ -86,3 +86,11 @@ The work was revelope with the following version:
 - Python 3.6.8
 - Tensorflow 2.3
 - Matplotlib 3.2.2
+
+### Relative Results
+
+We can see the convergence of the model during the training, some products stop before to another, that because the early stop.
+
+ <center>
+    <img src="img/tensorboard.png" alt="drawing" width="700"/>
+</center>
